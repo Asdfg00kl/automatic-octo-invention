@@ -1,2 +1,2 @@
-# automatic-octo-invention
+# practice git
 practice git
